@@ -1,0 +1,35 @@
+div {
+  border-style: solid;
+  border-width: 1px;
+  height: 200px;
+  width: 49%;
+}
+
+#choiceZero {
+  float: left;
+}
+
+#choiceOne {
+  float: right;
+}
+
+.list {
+  margin: 1px;
+}
+
+.grid { 
+  margin:1em auto; 
+
+
+}
+
+.grid td {
+  width:10%; height:35px;
+  border:1px solid #ccc;
+  text-align:center;
+  font-family:sans-serif; font-size:13px
+}
+
+.choice {
+  background-color: cyan;
+}
